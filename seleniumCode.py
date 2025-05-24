@@ -10,7 +10,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 
 '''
- we should add all the Xpaths in variable or can maintain a file from where we can fetch them and use so that it will
+ we should add all the Xpaths in variable or can maintain a file from where we can fetch them and use so that it will be
  dynamic
 '''
 
